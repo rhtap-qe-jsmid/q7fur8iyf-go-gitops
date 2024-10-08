@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: q7fur8iyf-go-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/q7fur8iyf-go
